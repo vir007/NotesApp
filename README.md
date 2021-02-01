@@ -10,5 +10,6 @@ A Simple Notes taking application made to getting familiar with the Android Stud
 
 1. Home Screen
 
-https://github.com/vir007/NotesApp/blob/master/Screenshots/home.png
+<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/home.png" alt="Home Screen of App" />
+
 

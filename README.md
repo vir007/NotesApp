@@ -8,9 +8,15 @@ A Simple Notes taking application made to getting familiar with the Android Stud
 
 ## How the Application works
 
+<table>
+  <tr>
+    <td>
 1. Home Screen
+    </td>
+    <td>
 <img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/home.png" height="400" width="auto" alt="Home Screen of App" />
-
+    </td>
+<tr>
 2. Tap on + sign to add a note
 <img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/list_notes.png" height="400" width="auto" alt="+" />
 
@@ -28,7 +34,7 @@ A Simple Notes taking application made to getting familiar with the Android Stud
 
 7. List of notes
 <img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/notes.png" height="400" width="auto" alt="list of notes" />
-
+</table>
 
 
 

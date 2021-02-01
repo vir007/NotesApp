@@ -9,25 +9,25 @@ A Simple Notes taking application made to getting familiar with the Android Stud
 ## How Application Works
 
 1. Home Screen
-<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/home.png" height="400" width="200" alt="Home Screen of App" />
+<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/home.png" height="400" width="auto" alt="Home Screen of App" />
 
 2. Tap on + sign to add a note
-<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/list_notes.png" height="400" width="200" alt="+" />
+<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/list_notes.png" height="400" width="auto" alt="+" />
 
 3. Write Note title and content then tap save or delete
-<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/save_delete_note.png" height="400" width="200" alt="save or delete" />
+<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/save_delete_note.png" height="400" width="auto" alt="save or delete" />
 
 4. Tap on share icon to share a note
-<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/share_note.png" height="400" width="200" alt="share" />
+<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/share_note.png" height="400" width="auto" alt="share" />
 
 5. Search content into a note
-<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/search_content.png" height="400" width="200" alt="search content" />
+<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/search_content.png" height="400" width="auto" alt="search content" />
 
 6. Result highlighted
-<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/search_result.png" height="400" width="200" alt="search result" />
+<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/search_result.png" height="400" width="auto" alt="search result" />
 
 7. List of notes
-<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/notes.png" height="400" width="200" alt="list of notes" />
+<img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/notes.png" height="400" width="auto" alt="list of notes" />
 
 
 

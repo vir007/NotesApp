@@ -6,7 +6,7 @@ A Simple Notes taking application made to getting familiar with the Android Stud
 - Search notes by entering Keywords
 - Share Notes
 
-## How Application Works
+## How the Application works
 
 1. Home Screen
 <img src="https://github.com/vir007/NotesApp/blob/master/Screenshots/home.png" height="400" width="auto" alt="Home Screen of App" />
